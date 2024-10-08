@@ -1,6 +1,6 @@
 Hi, I am Jeremy Reed
 
-I am interested in being a software engineer. I would like to be full-stack since I enjoy both back and front-end
+I am interested in being a software engineer. I would like to be full-stack since I enjoy both back and front-end.
 I am currently majoring in computer science. I am proficient in C++, HTML, and Java. And I would say intermediate in CSS, Assembly Language, C, Python, and SQL. 
 I am currently working on getting better with CSS and JS since I am taking a web development course, but I wish to become proficient in as many languages as possible, and I will work towards that.
 I am looking to collaborate on projects working with HTML, CSS, JS, C++, and Java. 
