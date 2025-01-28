@@ -3,7 +3,7 @@ Hi, I am Jeremy Reed
 I am interested in being a developer. I have enjoyed dabbling in game, software, and web developing.
 I am currently majoring in computer science. Intermediate in C++, HTML, Assembly Language, and Java. And some decent knowledge in CSS, C, Python, and SQL. 
 I am currently working on getting better with CSS and JS since I am taking a web development course, but I wish to become proficient in as many languages as possible, and I will work towards that.
-I am looking to collaborate on projects working with HTML, CSS, JS, C++, and Java. 
+I am looking to collaborate on projects working with HTML, CSS, C++, and Java. 
 You can reach me by number (856)-383-2158 or email at jeremyreed1452@gmail.com.
 I am a he/him.
 
