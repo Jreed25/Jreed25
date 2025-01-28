@@ -6,7 +6,7 @@ I am currently working on getting better with CSS and JS since I am taking a web
 I am looking to collaborate on projects working with HTML, CSS, JS, C++, and Java. 
 You can reach me by number (856)-383-2158 or email at jeremyreed1452@gmail.com.
 I am a he/him.
-Fun fact: I actually enjoy running into problems debugging.
+
 
 
 <!---
