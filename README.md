@@ -15,7 +15,7 @@ Contact <br/>
 You can reach me by: <br/>
 Number: (856)-383-2158 <br/>
 Email: jeremyreed1452@gmail.com <br/>
-Pronouns: He/Him.
+Pronouns: He/Him
 
 
 
