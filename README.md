@@ -11,7 +11,7 @@ Skills & Experience <br/>
 Collaboration Interests <br/>
 I am looking to collaborate on projects working with HTML, CSS, C++, and Java. <br/>
 
-Contact
+Contact <br/>
 You can reach me by: <br/>
 Number: (856)-383-2158 <br/>
 Email: jeremyreed1452@gmail.com <br/>
