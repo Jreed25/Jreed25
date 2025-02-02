@@ -8,7 +8,7 @@ Skills & Experience <br/>
 - Additional Knowledge: Proficient in CSS, Android Studio/Kotlin, C, Python, and SQL.<br/>
 - Current Focus: Working on improving CSS and JS skills through a web development course.<br/>
 
-Collaboration Interests
+Collaboration Interests <br/>
 I am looking to collaborate on projects working with HTML, CSS, C++, and Java. <br/>
 
 Contact
