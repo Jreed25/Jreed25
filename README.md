@@ -4,8 +4,8 @@ About Me <br/>
 I am interested in becoming a developer, with a passion for game, software, and web development. Currently, I work as a Substitute Teacher, which I enjoy for the time being, so I am also interested in teaching STEM-related subjects.
 
 Skills & Experience <br/>
-- Languages: Intermediate in C++, HTML, Assembly Language, and Java. <br/>
-- Additional Knowledge: Proficient in CSS, Android Studio/Kotlin, C, Python, and SQL.<br/>
+- Languages: Proficient in C++ and Java. <br/>
+- Additional Knowledge: Intermediate in (order) SQL, HTML, C, Python, Android Studio/Kotlin, CSS, and Assembly Language.<br/>
 - Current Focus: Working on improving CSS and JS skills through a web development course.<br/>
 
 Collaboration Interests <br/>
