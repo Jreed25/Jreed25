@@ -1,22 +1,44 @@
-Hi, I am Jeremy Reed
+# Hi, I'm Jeremy Reed 👋
 
-About Me <br/>
-I am interested in becoming a developer, with a passion for game, software, and web development. Currently, I work as a Substitute Teacher, so I am also interested in teaching STEM-related subjects.
+I'm a Computer Science graduate interested in software development, IT, web development, data, and game development. I enjoy solving problems, learning new technologies, and building projects to strengthen my technical skills.
 
-Skills & Experience <br/>
-- Languages: Proficient in C++. <br/>
-- Additional Knowledge: Intermediate in (order) SQL, C, Python, HTML, Android Studio/Kotlin, and Assembly Language.<br/>
-- Current Focus: Working on improving CSS and JS skills through a web development course.<br/>
+## Skills
 
-Collaboration Interests <br/>
-I am looking to collaborate on projects working with HTML, CSS, C++, and Java. <br/>
+- **Languages:** C++, Java, C, Python, SQL, HTML, CSS, JavaScript
+- **Concepts:** Object-Oriented Programming, Data Structures, Algorithms, Data Management
+- **Tools & Technologies:** Git, GitHub, Visual Studio, VS Code, Google Cloud, Pandas, Android Studio/Kotlin, Unreal Engine
+- **Other:** Windows, Linux, Microsoft Office
 
-Contact <br/>
-You can reach me by: <br/>
-Number: (856)-383-2158 <br/>
-Email: jeremyreed1452@gmail.com <br/>
-Pronouns: He/Him
+## Projects
 
+Some of the projects I've worked on include:
+
+- **C++ Inventory Management System** — Object-oriented inventory management application
+- **Java Employee Manager** — Employee management system using inheritance, encapsulation, and input validation
+- **C Web Crawler** — Web crawler built in C using data structures and memory management
+- **C++ Turn-Based RPG** — Game project built with C++
+- **Python Data Analysis** — Data analysis and visualization using Python, Pandas, and Google Cloud
+
+## Currently Learning
+
+I'm continuing to improve my skills in web development, particularly **HTML, CSS, and JavaScript**, while expanding my knowledge across software development and IT.
+
+## Open to Opportunities
+
+I'm currently open to opportunities in:
+
+- Software Development
+- IT / Technical Support
+- Web Development
+- Data / Analytics
+- Game Development
+- Other technology-related roles
+
+## Contact
+
+- **Email:** jeremyreed1452@gmail.com
+- **LinkedIn:** [linkedin.com/in/jeremyreed25](https://www.linkedin.com/in/jeremyreed25)
+- **GitHub:** [github.com/Jreed25](https://github.com/Jreed25)
 
 
 <!---
