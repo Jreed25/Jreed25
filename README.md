@@ -13,10 +13,10 @@ I'm a Computer Science graduate interested in software development, IT, web deve
 
 Some of the projects I've worked on include:
 
-- **C++ Inventory Management System** — Object-oriented inventory management application
 - **Java Employee Manager** — Employee management system using inheritance, encapsulation, and input validation
 - **C Web Crawler** — Web crawler built in C using data structures and memory management
 - **C++ Turn-Based RPG** — Game project built with C++
+- **C++ Inventory Management System** — Object-oriented inventory management application
 - **Python Data Analysis** — Data analysis and visualization using Python, Pandas, and Google Cloud
 
 ## Currently Learning
