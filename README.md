@@ -27,7 +27,6 @@ I'm continuing to develop my software engineering skills, with a focus on C++, d
 
 - **Email:** jeremyreed1452@gmail.com
 - **LinkedIn:** [linkedin.com/in/jeremyreed25](https://www.linkedin.com/in/jeremyreed25)
-- **GitHub:** [github.com/Jreed25](https://github.com/Jreed25)
 
 
 <!---
