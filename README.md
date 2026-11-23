@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy Reed 👋
 
-I'm a Computer Science graduate and Associate Software Engineer interested in software development, problem-solving, and building practical applications.vI enjoy working with C++, Java, Python, and other technologies while continuously strengthening my understanding of software engineering principles.
+I'm a Computer Science graduate and Associate Software Engineer interested in software development, problem-solving, and building practical applications. I enjoy working with C++, Java, Python, and other technologies while continuously strengthening my understanding of software engineering principles.
 
 ## Skills
 
